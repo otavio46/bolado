@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+    color: rgb(10, 10, 10);
+    margin: 0;
+    padding: 0%;
+}
+header{
+ background-color: azure;
+ text-align: center;
+ padding: 15px;
+    
+}
+nav a {
+    color: azure;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+main{
+    text-align: center;
+    padding: 30px;
+}
+
+footer {
+    background-color: black;
+    color: azure;
+    text-align: center;
+    padding: 10px;
+}
